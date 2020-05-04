@@ -13,4 +13,5 @@ Once in Postman you'll need to set ```domian``` and ```user_token``` variables.
 For example:
 
 ```domain: yourschool.instructure.com```
+
 ```user_token: 12345~abcdefg...789```
